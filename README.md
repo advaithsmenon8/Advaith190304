@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/advaith190304/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/advaith-s-menon/))
 
 ---
 
