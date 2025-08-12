@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Languages:**  Python,C++
 - **Web Development:** HTML, CSS
 - **Database:** MySQL
-- **Tools:** Git, Docker, Kubernetes, VS Code
+- **Tools:** Git, VS Code
 
 ## 📈 GitHub Stats
 
